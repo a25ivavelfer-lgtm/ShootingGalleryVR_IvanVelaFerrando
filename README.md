@@ -22,3 +22,6 @@ VR locomotion
 Open build
 Start scene → Main Menu → Start
 Use VR controllers / simulator
+
+## Download Build (Google Drive)
+https://drive.google.com/drive/folders/1HxWtLbXTARfQ7NbasiXaeMTTQ0DdjWdY?usp=sharing
