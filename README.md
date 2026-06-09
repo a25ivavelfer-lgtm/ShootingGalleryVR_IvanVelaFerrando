@@ -2,7 +2,7 @@
 
 1. Objective
 
-VR shooting gallery with interaction, locomotion, and multiplayer (if applicable)
+VR shooting gallery where destroying targets must be done to win under a stablished period of time. If you fail, simply shoot the restart floating button to repeat.
 
 2. Controls
    
