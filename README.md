@@ -20,7 +20,7 @@ VR locomotion
 
 4. How to run
 Open build
-Start scene → Main Menu → Start
+Start scene - Main Menu - Start
 Use VR controllers / simulator
 
 ## Download Build (Google Drive)
