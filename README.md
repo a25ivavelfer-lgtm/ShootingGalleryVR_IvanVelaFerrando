@@ -25,3 +25,6 @@ Use VR controllers / simulator
 
 ## Download Build (Google Drive)
 https://drive.google.com/drive/folders/1HxWtLbXTARfQ7NbasiXaeMTTQ0DdjWdY?usp=sharing
+
+
+L'experiència s'ha provat a Meta Quest 2 utilitzant OpenXR i XR Interaction Toolkit. S'espera compatibilitat amb Meta Quest 3 perquè tots dos dispositius utilitzen el mateix temps d'execució d'OpenXR i el mateix model d'interacció del controlador.
